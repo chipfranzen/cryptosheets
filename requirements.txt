@@ -1,0 +1,47 @@
+# packages in environment at /Users/charlesfranzen/miniconda3/envs/cryptosheets:
+#
+# Name                    Version                   Build  Channel
+asn1crypto                0.24.0                   py36_0  
+ca-certificates           2018.03.07                    0  
+certifi                   2018.4.16                py36_0  
+cffi                      1.11.5           py36h342bebf_0  
+chardet                   3.0.4            py36h96c241c_1  
+cryptography              2.1.4            py36h842514c_0  
+google-api-python-client  1.6.5                     <pip>
+httplib2                  0.10.3                    <pip>
+idna                      2.6              py36h8628d0a_1  
+intel-openmp              2018.0.0             h8158457_8  
+libcxx                    4.0.1                h579ed51_0  
+libcxxabi                 4.0.1                hebd6815_0  
+libedit                   3.1                  hb4e282d_0  
+libffi                    3.2.1                h475c297_4  
+libgfortran               3.0.1                h93005f0_2  
+mkl                       2018.0.1             hfbd8650_4  
+ncurses                   6.0                  hd04f020_2  
+numpy                     1.14.1           py36ha726252_2  
+oauth2client              4.1.2                     <pip>
+openssl                   1.0.2o               h26aff7b_0  
+pandas                    0.22.0           py36h0a44026_0  
+pip                       9.0.1                    py36_5  
+pyasn1                    0.4.2                     <pip>
+pyasn1-modules            0.2.1                     <pip>
+pycparser                 2.18             py36h724b2fc_1  
+pyopenssl                 17.5.0           py36h51e4350_0  
+pysocks                   1.6.8                    py36_0  
+python                    3.6.4                hc167b69_1  
+python-dateutil           2.6.1            py36h86d2abb_1  
+pytz                      2018.3                   py36_0  
+pyyaml                    3.12             py36h2ba1e63_1  
+readline                  7.0                  hc1231fa_4  
+requests                  2.18.4           py36h4516966_1  
+rsa                       3.4.2                     <pip>
+setuptools                38.5.1                   py36_0  
+six                       1.11.0           py36h0e22d5e_1  
+sqlite                    3.22.0               h3efe00b_0  
+tk                        8.6.7                h35a86e2_3  
+uritemplate               3.0.0                     <pip>
+urllib3                   1.22             py36h68b9469_0  
+wheel                     0.30.0           py36h5eb2c71_1  
+xz                        5.2.3                h0278029_2  
+yaml                      0.1.7                hc338f04_2  
+zlib                      1.2.11               hf3cbc9b_2  
