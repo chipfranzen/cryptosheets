@@ -71,7 +71,7 @@ def main():
                          'price_btc',
                          'price_usd',
                          'percent_total_market']]
-    write_df = write_df.sort_values(by='percent_total_market')
+    write_df = write_df.sort_values(by='percent_total_market', ascending=False)
     biggest_cap_coin = write_df['name'][0]
     print(f'the cryptocurrency with the biggest market cap today is: {biggest_cap_coin}')
     print('writing to `./prices.csv`...')
